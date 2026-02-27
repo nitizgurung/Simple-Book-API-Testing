@@ -25,7 +25,6 @@ The collection uses the following variables:
 Default values stored in the collection:
 
 - `url`: `https://simple-books-api.glitch.me`
-- `token`: `d1d804529e5fa2a6d484d99584595eaaacca771a07259c58840f017505a24f78`
 
 ## Usage
 
